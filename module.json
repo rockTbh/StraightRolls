@@ -1,0 +1,15 @@
+{
+  "id": "straight-rolls",
+  "title": "Straight Rolls to bypass advantage/disadvantage prompts.",
+  "description": "A module to stop advantage/disadvantage prompts whenever a roll is taken.",
+  "authors": [
+    {
+    "name": "RockTBH"
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+}
