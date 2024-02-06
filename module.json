@@ -13,6 +13,9 @@
     "minimum": "10",
     "verified": "11"
   },
+  "scripts": [
+  "scripts/buttons.js"
+  ],
   "url": "https://github.com/rockTbh/StraightRolls",
   "download": "https://github.com/rockTbh/StraightRolls/releases/download/0.0.1-alpha/module.zip"
 }
