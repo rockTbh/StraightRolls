@@ -1,6 +1,6 @@
 {
   "id": "straight-rolls",
-  "title": "Straight Rolls to bypass advantage/disadvantage prompts.",
+  "title": "Straight Rolls",
   "description": "A module to stop advantage/disadvantage prompts whenever a roll is taken.",
   "authors": [
     {
