@@ -2,14 +2,17 @@
   "id": "straight-rolls",
   "title": "Straight Rolls",
   "description": "A module to stop advantage/disadvantage prompts whenever a roll is taken.",
+  "version": "0.0.1",
   "authors": [
     {
     "name": "RockTBH"
     }
   ],
-  "version": "0.0.1",
+  "license": "LICENSE",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
-  }
+  },
+  "url": "https://github.com/rockTbh/StraightRolls",
+  "download": "https://github.com/rockTbh/StraightRolls/releases/download/0.0.1-alpha/module.zip"
 }
